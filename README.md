@@ -1,5 +1,12 @@
 # Node (npm) API wrapper for Bittrex Exchange
 
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** This is an API wrapper for the Bittrex exchange. The README reflects an older exchange API; availability and endpoint compatibility must be checked independently before running examples.
+> 
+> **Security:** Keep API keys in an untracked secret store, use least-privilege access, and never assume legacy trade endpoints or account permissions still work.
+<!-- repo-entrypoint-guide:end -->
+
+
 This a library that interacts with the Bittrex Exchange API
 
 ## Installation
